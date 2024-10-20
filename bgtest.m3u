@@ -1,25 +1,51 @@
+#EXTM3U
+#EXTINF:-1, TRT1 Archive
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trt1-com-tr/arsiv.m3u
+#EXTINF:-1, TRT1 Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trt1-com-tr/programlar.m3u
+#EXTINF:-1, Kanal D Archive Series
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-diziler.m3u
+#EXTINF:-1, Kanal D Archive Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/arsiv-programlar.m3u
+#EXTINF:-1, Kanal D Home Cinema
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-kanald-com-tr/evde-sinema.m3u
+#EXTINF:-1, Show TV Archive Series
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-diziler.m3u
+#EXTINF:-1, Show TV Archive Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-showtv-com-tr/arsiv-programlar.m3u
+#EXTINF:-1, Now TV Series Archive
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/dizi-arsivi.m3u
+#EXTINF:-1, Now TV Program Archive
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/program-arsivi.m3u
+#EXTINF:-1, Now TV Movies
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-nowtv-com-tr/filmler.m3u
+#EXTINF:-1, Star TV Archive
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-startv-com-tr/arsiv.m3u
+#EXTINF:-1, TV8 All Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv8-com-tr/all.m3u
+#EXTINF:-1, Puhu TV Movies
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/puhutv-com/filmler.m3u
+#EXTINF:-1, Teve2 Series
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/diziler.m3u
+#EXTINF:-1, Teve2 Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-teve2-com-tr/programlar.m3u
+#EXTINF:-1, DMAX All Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-dmax-com-tr/all.m3u
+#EXTINF:-1, TLC TV All Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tlctv-com-tr/all.m3u
+#EXTINF:-1, TV360 Archive
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv360-com-tr/arsiv.m3u
+#EXTINF:-1, TV360 Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv360-com-tr/programlar.m3u
+#EXTINF:-1, TV4 All Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-tv4-com-tr/all.m3u
+#EXTINF:-1, CNN Turk Documentaries
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cnnturk-com/belgeseller.m3u
+#EXTINF:-1, TRT Cocuk All Programs
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-trtcocuk-net-tr/all.m3u
+#EXTINF:-1, Cartoon Network Turkey Videos
 https://github.com/UzunMuhalefet/Legal-IPTV/raw/main/lists/video/sources/www-cartoonnetwork-com-tr/videolar.m3u
+#EXTINF:-1, Suphero IPTV TR (Link 1)
 https://github.com/suphero/IPTV/blob/master/TR.m3u8
+#EXTINF:-1, Suphero IPTV TR (Link 2)
 https://raw.githubusercontent.com/suphero/IPTV/master/TR.m3u8
